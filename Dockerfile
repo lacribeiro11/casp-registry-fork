@@ -1,4 +1,4 @@
-FROM eclipse-temurin:25
+FROM eclipse-temurin:21
 
 COPY ./target/registry.jar /app.jar
 
